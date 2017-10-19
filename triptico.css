@@ -1,0 +1,66 @@
+
+.contenedor{
+  position: relative;
+  border: 1px solid black;
+  width: 600px;
+  height: 500px;
+}
+.parte_1{
+  position: absolute;
+  top:0px;
+  width: 600px;
+  height: 40px;
+  background: yellow;
+  border-bottom:1px solid black;
+  text-align: center;
+  margin-top: 0;
+}
+.parte_2{
+  position: absolute;
+  top:460px;
+  width: 600px;
+  height: 40px;
+  background: yellow;
+  border-top:1px solid black;
+  border-bottom:1px solid black;
+  text-align: center;
+  margin-top: 0;
+}
+.parte_3{
+  position: absolute;
+  top: 40px;
+  left: 0px;
+  width: 180px;
+  height: 420px;
+  border: 1px solid black;
+  padding-left: 20px;
+}
+.parte_4{
+  position: absolute;
+  top: 40px;
+  left: 420px;
+  width: 180px;
+  height: 420px;
+  border: 1px solid black;
+  padding-left: 0px;
+}
+.mono{
+  position: float;
+
+  width: 50%;
+}
+.mono_2{
+  position: float;
+  width: 50%;
+  margin-left: 30px;
+  border:
+}
+.parte_5{
+position: absolute;
+top:40px;
+left: 200px;
+width: 218px;
+height: 420px;
+border: 1px solid black;
+text-align: center;
+}

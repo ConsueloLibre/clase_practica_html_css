@@ -1,0 +1,75 @@
+/*.contenedor{
+  width: 1000px;
+  height: 1000px;
+  font-family: 'Hind', sans-serif;
+font-family: 'Baloo Chettan', cursive;
+}*/
+.avion{
+  width: 200px;
+	height: 250px;
+	background-color: #CBCBCB;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+  font color: #6E6E6E;
+}
+.ruby{
+  width: 200px;
+	height: 250px;
+	background-color: #CBCBCB;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.corazon{
+  background: #F2F2F2;
+  	width: 220px;
+	height: 270px;
+	float: left;
+  margin-left: 5px;
+}
+.cafe{
+  width: 200px;
+	height: 250px;
+	background-color: #CBCBCB;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.plato{
+  width: 200px;
+	height: 250px;
+	background-color: #CBCBCB;
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+
+h3 {
+	font-family:'Hind', sans-serif;
+	font-size: 18px;
+	font-weight: 100%;
+	text-align: center;
+	font-style: normal;
+	padding-top: 10px;
+  color:#585858;
+}
+
+  h2{
+    font-family:'Baloo Chettan', cursive;
+  	font-size: 20px;
+  	font-weight: 200%;
+  	text-align: center;
+  	font-style: normal;
+  	padding-top: 20px;
+    color:#585858;
+  }
+  p{
+    font-family:'Hind', sans-serif;
+    font-size: 13px;
+    text-align: center;
+    color: #8A0829;
+  }
+  i{
+    position:relative;
+  }
